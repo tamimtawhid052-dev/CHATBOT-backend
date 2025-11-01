@@ -1,0 +1,64 @@
+{
+  "faqs": [
+    {
+      "q": "What is FeedHive?",
+      "a": "FeedHive is an AI-powered social media management platform that helps you create, schedule, and automate posts across multiple channels."
+    },
+    {
+      "q": "How much does FeedHive cost?",
+      "a": "Plans start at around $19/month (Creator plan), $29/month (Brand plan), $99/month (Business plan), up to $299/month (Agency plan) depending on features and number of accounts."
+    },
+    {
+      "q": "Does FeedHive offer a free trial?",
+      "a": "Yes, FeedHive offers a 7-day free trial for all plans."
+    },
+    {
+      "q": "Can I use FeedHive for multiple clients?",
+      "a": "Yes, the Business and Agency plans support multiple workspaces, many social accounts, and the Agency plan offers white-label support."
+    },
+    {
+      "q": "What social platforms does FeedHive support?",
+      "a": "Instagram, Facebook, TikTok, YouTube Shorts, Reels, LinkedIn, Threads."
+    },
+    {
+      "q": "What features does the AI assistant provide?",
+      "a": "The AI assistant generates post ideas, improves content for engagement/virality, suggests hashtags, and recommends ways to optimize your posts."
+    },
+    {
+      "q": "Can agencies use white-label?",
+      "a": "Yes, the Agency plan allows custom branding, white-label dashboards, and client access management."
+    },
+    {
+      "q": "What kind of automation does FeedHive provide?",
+      "a": "Recurring posts, content recycling, approval workflows, scheduling, team collaboration with workspaces and multiple users."
+    },
+    {
+      "q": "Does FeedHive have analytics?",
+      "a": "Yes, it provides post analytics and performance tracking, as well as a social inbox to manage comments across platforms."
+    },
+    {
+      "q": "What are the pros of FeedHive?",
+      "a": "Easy to use UI, AI content generation, multi-platform scheduling, good value for small teams or creators, strong automation and collaboration features."
+    },
+    {
+      "q": "What are the cons or limitations?",
+      "a": "Analytics may not be as deep for enterprise-level insights, some users report minor bugs, integrations for certain platforms may be limited, higher tiers needed for large-scale use."
+    },
+    {
+      "q": "How do I start using FeedHive?",
+      "a": "Sign up on the website, choose a plan, connect your social accounts, upload your content, and start scheduling posts."
+    },
+    {
+      "q": "Is FeedHive suitable for small teams?",
+      "a": "Yes, it's designed for creators, small brands, startups, and agencies managing multiple clients."
+    },
+    {
+      "q": "Does FeedHive integrate with third-party tools?",
+      "a": "Yes, it supports Zapier, APIs, webhooks, and automated workflows."
+    },
+    {
+      "q": "Is there a mobile app?",
+      "a": "Currently, FeedHive is primarily web-based; mobile app availability may be limited."
+    }
+  ]
+}
